@@ -7,8 +7,7 @@ This organization serves to coordinate the developer operations of our volunteer
 ### Fight for Earth. Enlist today! 
 
 Would you like to know more?
-
-[Find a UNSC Recruiting Center near you! ==>](https://discord.gg/B5RGQNh)
+[Find a UNSC Recruiting Center near you!](https://discord.gg/B5RGQNh)
 
 
 <!--
